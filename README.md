@@ -43,8 +43,7 @@ CORE is a fast and accurate coarse-to-fine image registration engine designed fo
 
 # CORE: Cell-Level Coarse-to-Fine Image Registration
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eshasadia/CORE/blob/main/notebooks/1-WSI_Registration.ipynb)
-![CORE Architecture](https://github.com/user-attachments/assets/ffeca69d-e1b2-4260-bbd2-edf3fa28f76a)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eshasadia/test/blob/main/notebooks/1-WSI_Registration.ipynb)
 
 ## CORE VISUALIZATION
 <div style="text-align: center;">
